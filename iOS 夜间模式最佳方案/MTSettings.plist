@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>themeStyle</key>
+	<integer>0</integer>
+	<key>themeColors</key>
+	<array>
+		<dict>
+			<key>color1_blue</key>
+			<string>#00FF00</string>
+			<key>color2_green</key>
+			<string>#43A549</string>
+			<key>color3_red</key>
+			<string>#43A549</string>
+		</dict>
+		<dict>
+			<key>color1_blue</key>
+			<string>#FF0000</string>
+			<key>color2_green</key>
+			<string>#43A549</string>
+			<key>color3_red</key>
+			<string>#43A549</string>
+		</dict>
+	</array>
+</dict>
+</plist>
